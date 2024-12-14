@@ -1,4 +1,7 @@
-﻿# portfolioProject
+#The portfolio direct link: https://k-acharya.github.io/portfolioProject/
+ 
+ 
+# portfolioProject
 concepts this code covered according to tech stack it used:
 
 *HTML-->
