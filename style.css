@@ -494,19 +494,16 @@ a{
 /* ab sabhi me customize background image lagega in each projects 1,2,3,4 */
 
 #project1{
-    background-image: url(./images/project-section/project1.jpg);
+    background-image: url(./images/project-section/proj.png);
 }
 #project2{
     margin-left: 120px;
-    background-image: url(./images/project-section/project2.png);
+    background-image: url(./images/project-section/proj1.png);
 }
 #project3{
-    background-image: url(./images/project-section/project3.jpg);
+    background-image: url(./images/project-section/proj2.png);
 }
-#project4{
-    margin-left: 120px;
-    background-image: url(./images/project-section/project4.jpg);
-}
+
 
 /*#########################---media query for project section---########################### */
 
