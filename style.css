@@ -492,15 +492,18 @@ a{
 }
 
 /* ab sabhi me customize background image lagega in each projects 1,2,3,4 */
-
 #project1{
+    background-image: url(./images/project-section/proj0.png);
+}
+
+#project2{
     background-image: url(./images/project-section/proj.png);
 }
-#project2{
+#project3{
     margin-left: 120px;
     background-image: url(./images/project-section/proj1.png);
 }
-#project3{
+#project4{
     background-image: url(./images/project-section/proj2.png);
 }
 
